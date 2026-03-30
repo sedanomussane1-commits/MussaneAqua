@@ -1,0 +1,29 @@
+[2026-03-04 18:40:07] ✅ Login bem-sucedido: Saidate Willema
+[2026-03-04 18:40:07] 🔧 Criando remember token para: Saidate Willema
+[2026-03-04 18:40:07]    Token gerado: a56ba93bb0294a1039a1...
+[2026-03-04 18:40:07]    Expira em: 2026-04-03 19:40:07
+[2026-03-04 18:40:07]    Tokens antigos removidos: 0
+[2026-03-04 18:40:07]    ❌ ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'
+[2026-03-04 18:40:07]    Resultado: Falha
+[2026-03-04 19:02:26] ✅ Login bem-sucedido: Saidate Willema
+[2026-03-04 19:02:26] 🔧 Criando remember token para: Saidate Willema
+[2026-03-04 19:02:26]    Token gerado: 1aa760f1f3478b6fa736...
+[2026-03-04 19:02:26]    Expira em: 2026-04-03 20:02:26
+[2026-03-04 19:02:26]    Tokens antigos removidos: 0
+[2026-03-04 19:02:26]    ❌ ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'
+[2026-03-04 19:02:26]    Resultado: Falha
+[2026-03-04 19:03:17] ✅ Login bem-sucedido: Saidate Willema
+[2026-03-25 07:32:24] ❌ Usuário não encontrado: sedanomussane1@gmail.com
+[2026-03-25 07:32:30] ❌ Usuário não encontrado: sedanomussane1@gmail.com
+[2026-03-25 07:33:04] ❌ Usuário não encontrado: sedanomussane1@gmail.com
+[2026-03-25 07:39:50] ❌ Usuário não encontrado: admin@mussaneaqua.com
+[2026-03-25 07:40:13] ❌ Usuário não encontrado: admin@mussaneaqua.com
+[2026-03-25 07:40:35] ❌ Usuário não encontrado: admin@mussaneaqua.com
+[2026-03-25 07:49:11] ✅ Login bem-sucedido: admin
+[2026-03-25 07:49:11] 🔧 Criando remember token para: admin
+[2026-03-25 07:49:11]    Token gerado: 1453675f2a95458812a2...
+[2026-03-25 07:49:11]    Expira em: 2026-04-24 08:49:11
+[2026-03-25 07:49:11]    Tokens antigos removidos: 0
+[2026-03-25 07:49:11]    ✅ Token inserido no banco
+[2026-03-25 07:49:11]    ✅ Cookie configurado
+[2026-03-25 07:49:11]    Resultado: Sucesso
